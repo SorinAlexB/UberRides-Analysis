@@ -1,0 +1,2 @@
+# UberRides-Analysis
+This Python project aims to analyze Uber rides to detect specific patterns, such as the busiest day or the time with the lowest number of rides. The main purpose of this project is to familiarize with the common steps of analyzing a dataset and how to draw insights from data through visualizing the relationship between different variables. The dataset we will use is stored in uber-raw-data-sep14.csv file.
